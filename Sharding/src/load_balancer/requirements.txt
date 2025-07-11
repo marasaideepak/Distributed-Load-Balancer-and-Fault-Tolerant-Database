@@ -1,0 +1,7 @@
+quart
+aiohttp
+asyncpg
+aiodocker
+colorama
+werkzeug
+quart_cors
